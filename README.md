@@ -250,4 +250,5 @@ AI-assisted programming improves the software development process by reducing re
 
 The experiment also showed that AI-generated code requires manual verification and testing to ensure correctness and reliability. Thus, AI tools act as effective programming assistants while the programmer remains responsible for validating the final solution.
 
-# Result: The corresponding Prompt is executed successfully.
+## Result: 
+The corresponding Prompt is executed successfully.
